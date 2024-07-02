@@ -1,0 +1,26 @@
+body {  
+    background-color: #3b9df8;  
+    font-size: 16px;
+    }
+
+.encabezado {  
+    text-align: center;  
+    text-transform: uppercase;  
+    font-weight: bold;  
+    font-size: 42px;
+    }
+    .parrafo {  
+        text-align: justify;  
+        text-transform: capitalize;  
+        font-size: 24px;
+        }
+        #fondo {  
+            background-color: #1cc2ac; /* modificar el color a elección */
+            }
+            p a {  
+                color: #ff0505;  
+                text-decoration: none;
+                 }
+            
+        
+    
